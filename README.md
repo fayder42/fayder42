@@ -1,4 +1,4 @@
-Hi 👋 My name is Fayder
+About Me
 =======================
 
 * 🌍  I'm based in Russia
