@@ -3,7 +3,7 @@ About Me
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [fayder42@gmail.com](mailto:fayder42@gmail.com)
-* 🧠  I'm learning С#
+* 🧠  I'm learning С++
 
 ### Skills
 
